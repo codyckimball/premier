@@ -1,0 +1,27 @@
+{
+  "name": "premier",
+  "version": "1.0.0",
+  "description": "capstone premier project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codyckimball/premier.git"
+  },
+  "keywords": [
+    "capstone",
+    "premier"
+  ],
+  "author": "Cody Kimball",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codyckimball/premier/issues"
+  },
+  "homepage": "https://github.com/codyckimball/premier#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
